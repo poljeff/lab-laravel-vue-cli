@@ -8,9 +8,9 @@ This copy is the ini point with Vue Cli and laravel integration.
 ## What is installed!
 
 > Laravel 6
-> Vue 2.6.10
-> Vuex 3.1.1
-> Vue Router 3.1.3
+> Vue 2.6.11
+> Vuex 3.1.2
+> Vue Router 3.1.5
 
 ### Start the installation Laravel and NPM packages
 
